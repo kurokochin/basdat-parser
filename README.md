@@ -10,7 +10,7 @@ Contoh: python parser.py data_sirenkom.xlsx sheet1 petugas.txt PETUGAS
 Hasil:
 petugas.txt
 
-Isinya:
+Isinya:  
 INSERT INTO PETUGAS (id_petugas, nama_lengkap, alamat, no_telp) VALUES ( 'P00001' ,'Samsudin' ,'Jl. Samudera I No.7, Depok' ,'0218313541' );  
 INSERT INTO PETUGAS (id_petugas, nama_lengkap, alamat, no_telp) VALUES ( 'P00002' ,'Siska Wijaya' ,'Jl. Pinus Raya No.21, Depok' ,'0213456234' );  
 INSERT INTO PETUGAS (id_petugas, nama_lengkap, alamat, no_telp) VALUES ( 'P00003' ,'Rosiana' ,'Jl. Gardu Timur No.89, Bekasi' ,'0219876345' );  
